@@ -26,7 +26,10 @@ A curated list of browser-based tools that process data locally — no upload, n
 - [Image Resizer](https://xueboyang1985.github.io/image-resizer/) — Resize by pixels, percentage, or max dimension. Aspect ratio lock.
 - [Image Cropper](https://xueboyang1985.github.io/image-cropper/) — Interactive crop with aspect ratio presets. Touch-friendly.
 - [Squoosh](https://squoosh.app/) — Google's image compression tool. Side-by-side comparison. Open source.
+- [Photopea](https://www.photopea.com/) — Full Photoshop-compatible image editor in the browser. PSD, Sketch, XD support.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) — SVG optimizer. Removes unnecessary markup.
+- [remove.bg](https://www.remove.bg/) — AI background removal (free tier uploads to cloud; local alternatives exist).
+- [Excalidraw](https://excalidraw.com/) — Hand-drawn style diagramming tool. Collaborative, open source.
 
 ## Developer Tools
 
@@ -41,6 +44,9 @@ A curated list of browser-based tools that process data locally — no upload, n
 - [Number Base Converter](https://xueboyang1985.github.io/number-base/) — Binary, octal, decimal, hex. Fractions + step-by-step.
 - [Transform](https://transform.tools/) — Polyglot web converter. JSON to everything.
 - [CyberChef](https://gchq.github.io/CyberChef/) — The Cyber Swiss Army Knife. 300+ operations.
+- [JSONLint](https://jsonlint.com/) — JSON validator and formatter.
+- [crontab guru](https://crontab.guru/) — Cron schedule expression editor. Visual, instant feedback.
+- [JWT.io](https://jwt.io/) — Debug, verify, and decode JSON Web Tokens.
 
 ## Text & Productivity
 
@@ -60,6 +66,12 @@ A curated list of browser-based tools that process data locally — no upload, n
 - [WhatsApp Chat Formatter](https://xueboyang1985.github.io/whatsapp-chat-formatter/) — Parse WhatsApp exports to Markdown/HTML/CSV/JSON.
 - [Subtitle Converter](https://xueboyang1985.github.io/subtitle-converter/) — SRT ↔ VTT ↔ ASS. Text extraction.
 - [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) — Parse My Clippings.txt to Markdown/CSV. Groups by book.
+
+## Design & Drawing
+
+- [Excalidraw](https://excalidraw.com/) — Hand-drawn style diagrams. Collaborative, open source.
+- [Tldraw](https://www.tldraw.com/) — Infinite canvas whiteboard. Open source.
+- [Boxy SVG](https://boxy-svg.com/) — SVG editor. Browser-based, beginner-friendly.
 
 ## Bundles
 
